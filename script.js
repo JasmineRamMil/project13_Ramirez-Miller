@@ -1,0 +1,1 @@
+<element>.onclick = function() { document.getElementById('submitMsg').innerHTML = 'Thank you for your order'; }
